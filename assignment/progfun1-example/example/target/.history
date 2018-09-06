@@ -1,0 +1,7 @@
+scala
+updateSbtClassifiers
+console
+run test
+scala
+console
+packageSubmission
