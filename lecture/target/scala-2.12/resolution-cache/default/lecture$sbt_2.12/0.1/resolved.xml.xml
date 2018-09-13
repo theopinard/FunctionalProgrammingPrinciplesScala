@@ -4,7 +4,7 @@
 		module="lecture$sbt_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20180911202934"
+		publication="20180913200246"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
