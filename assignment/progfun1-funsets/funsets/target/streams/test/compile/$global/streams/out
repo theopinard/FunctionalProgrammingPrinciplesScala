@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-funsets\funsets\src\test\scala\funsets\FunSetSuite.scala:149:7: missing argument list for method test in trait FunSuiteLike[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `test _` or `test(_,_)(_)(_)` instead of `test`.[0m
+[0m[[0m[31merror[0m] [0m[0m  test("forall")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
