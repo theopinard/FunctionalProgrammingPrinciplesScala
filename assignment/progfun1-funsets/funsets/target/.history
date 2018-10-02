@@ -8,3 +8,4 @@ run packageSubmission
 packageSubmission
 all {file:/C:/Users/Theodore/Dropbox/data_science/tools/scala/FunctionalProgrammingPrinciplesScala/assignment/progfun1-funsets/funsets/}funsets/products {file:/C:/Users/Theodore/Dropbox/data_science/tools/scala/FunctionalProgrammingPrinciplesScala/assignment/progfun1-funsets/funsets/}funsets/test:products
 packageSubmission
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Theodore/AppData/Local/Temp/sbt-structure.xml; session clear-all

@@ -4,7 +4,7 @@
 		module="lecture$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20180916091253"
+		publication="20181001202916"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
