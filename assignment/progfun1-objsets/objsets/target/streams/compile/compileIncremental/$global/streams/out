@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Main$.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\NonEmpty$$anonfun$1.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\TweetList.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\GoogleVsApple.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Cons.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Nil$.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Main$delayedInit$body.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Tweet.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Main$$anonfun$2.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\TweetList$class.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\NonEmpty$$anonfun$union$1.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\NonEmpty.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Empty.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Main.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\Nil.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\TweetSet.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$keywordFilter$1.class, C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes\objsets\GoogleVsApple$$anonfun$keywordFilter$1$$anonfun$apply$1.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(objsets.NonEmpty, objsets.Cons, objsets.GoogleVsApple, objsets.Empty, objsets.TweetList, objsets.TweetSet, objsets.Tweet, objsets.Main, objsets.Nil)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(objsets.NonEmpty, objsets.Cons, objsets.GoogleVsApple, objsets.Empty, objsets.TweetList, objsets.TweetSet, objsets.Tweet, objsets.Main, objsets.Nil)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\src\main\scala\objsets\TweetSet.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.1.7:compile for Scala 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.1.7:compile for Scala 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 5234c5c1 for Scala compiler version 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Theodore\Dropbox\data_science\tools\scala\FunctionalProgrammingPrinciplesScala\assignment\progfun1-objsets\objsets\target\scala-2.11\classes;C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\3.0.5\scalatest_2.11-3.0.5.jar;C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar;C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.6\scala-xml_2.11-1.0.6.jar;C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalactic\scalactic_2.11\3.0.5\scalactic_2.11-3.0.5.jar;C:\Users\Theodore\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 13.749002411 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from objsets.GoogleVsApple...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(objsets.GoogleVsApple)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(objsets.GoogleVsApple)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(objsets.GoogleVsApple,ModifiedNames(changes = UsedName(time,[Default]))) invalidates 1 classes due to The objsets.GoogleVsApple has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(time,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(objsets.GoogleVsApple)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
