@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/theodoremeynard/Dropbox/Data_Science/tools/scala/FunctionalProgrammingPrinciplesScala/assignment/progfun1-patmat/src/main/scala/patmat/Huffman.scala:158:10: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[patmat.Huffman.CodeTree][0m
+[0m[[0m[31merror[0m] [0m[0m required: patmat.Huffman.CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m    until(singleton, combine)(makeOrderedLeafList(times(chars)))[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
